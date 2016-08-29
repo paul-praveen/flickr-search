@@ -1,0 +1,41 @@
+Release LOG - Flickr Search
+Symbol Legends:
+- Completed
++ yet to implement
+** testing pending
+
+Development Provisioning: com.praveen.dev.flickr.search.FlickrSearch
+Enterprise Provisioning:  com.praveen.ent.flickr.search.FlickrSearch
+
+==============================================================================
+iOS: Version: 1.0.0  Build 5
+- Added Search history
+- User can see search history and remove from history
+
+- Force touch
+- 3D touch peek & pop for iOS > 9.0.0
+
+- Popular image search
+- On pull down to refresh, change page number to fresh item each time
+- Comment all NSLog with //NSLog
+==============================================================================
+iOS: Version: 1.0.0  Build 4
+- Details view enhancements with Childviewcontroller
+- Double taps to zoom out in detail view (disabled)
+- Details, make title scrollable to read long texts
+
+==============================================================================
+iOS: Version: 1.0.0  Build 3
+- Details view enhancements with Childviewcontroller
+
+==============================================================================
+iOS: Version: 1.0.0  Build 2
+- User can search with title text
+- Detailed view swipe to dismiss
+- Detailed view tap gesture to hide details
+- Detailed view with swipe to next image
+** 5S and below constraints not appropriate
+==============================================================================
+iOS: Version: 1.0.0  Build 1
+- Functional requirement completed
+- Code commit to GIT
