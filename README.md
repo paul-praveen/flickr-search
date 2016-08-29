@@ -16,6 +16,7 @@ https://youtu.be/SAYjUCBB2bc
 
 ### SCRUM Documents
 Refer **docs/Flickr_WBS_ScrumSheet_V1.xlsx** for Work Breakdown Structure, Sprint release plan, Release log.
+https://github.com/paul-praveen/flickr-search/blob/master/docs/Flickr_WBS_ScrumSheet_V1.xlsx
 
 ### Features
 1.  Search Popular images by pull down to refresh
